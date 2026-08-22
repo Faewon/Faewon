@@ -70,7 +70,7 @@ business_analyst_intern:
         <img src="https://raw.githubusercontent.com/Faewon/Faewon/output/profile-3d-contrib/profile-night-green.svg" width="100%" />
       </td>
       <td width="45%" align="center" valign="middle" style="border: none !important; background: transparent; padding-left: 8px;">
-        <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10&disable_animations=true" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10&count_private=true&disable_animations=true" width="100%" />
         <br/><br/>
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&theme=vue-dark&hide_border=true&border_radius=10&card_width=495&langs_count=3" width="100%" />
       </td>
