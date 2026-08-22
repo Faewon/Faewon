@@ -68,7 +68,7 @@ business_analyst_intern:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faewon&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Faewon/Faewon/output/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 ---
