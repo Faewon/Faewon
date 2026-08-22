@@ -62,13 +62,19 @@ business_analyst_intern:
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10&disable_animations=true" height="150"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&layout=compact&theme=vue-dark&hide_border=true&border_radius=10" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faewon/Faewon/output/profile-3d-contrib/profile-night-green.svg" width="75%" />
-</p>
+<div align="center">
+  <table border="0" style="border: none;">
+    <tr style="border: none;">
+      <!-- Bên trái: 3D Contribution Graph -->
+      <td width="55%" align="center" valign="middle" style="border: none; padding-right: 10px;">
+        <img src="https://raw.githubusercontent.com/Faewon/Faewon/output/profile-3d-contrib/profile-night-green.svg" alt="3D Profile Contribution" width="100%" />
+      </td>
+      <!-- Bên phải: 2 Stats Cards -->
+      <td width="45%" align="center" valign="middle" style="border: none; padding-left: 10px;">
+        <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10&disable_animations=true&hide=prs,issues,contribs" alt="GitHub Stats" width="100%" />
+        <br/><br/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&layout=compact&theme=vue-dark&hide_border=true&border_radius=10&langs_count=4" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
