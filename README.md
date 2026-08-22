@@ -63,8 +63,8 @@ business_analyst_intern:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-topaz-ten-58.vercel.app/api?username=Faewon&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats-topaz-ten-58.vercel.app/api/top-langs/?username=Faewon&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
