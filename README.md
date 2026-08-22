@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Header Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Khai</h1>
 <h3 align="center">Business Analytics Student | Aspiring Business Analyst</h3>
 
