@@ -81,3 +81,7 @@ business_analyst_intern:
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="assets/footer.png" alt="Footer Banner" width="100%" />
+</p>
