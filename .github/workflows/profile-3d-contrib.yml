@@ -10,6 +10,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: update profile 3d contribution
