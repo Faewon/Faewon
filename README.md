@@ -65,6 +65,6 @@ business_analyst_intern:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Faewon/Faewon/output/profile-3d-contrib/profile-night-green.svg" width="56%" align="left" />
   <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide_border=true&hide_rank=true&hide=prs,issues,contribs&border_radius=10&disable_animations=true" width="41%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&layout=compact&theme=vue-dark&hide_border=true&border_radius=10&card_width=495&langs_count=3" width="41%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&theme=vue-dark&hide_border=true&border_radius=10&card_width=495&langs_count=3" width="41%" />
 </p>
 <br clear="both"/>
