@@ -63,9 +63,17 @@ business_analyst_intern:
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faewon/Faewon/output/profile-3d-contrib/profile-night-green.svg" width="56%" align="left" />
-  <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10&disable_animations=true" width="42%" height="205" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&theme=vue-dark&hide_border=true&border_radius=10&card_width=495&langs_count=4" width="42%" height="205" />
-</p>
-<br clear="both"/>
+<div align="center">
+  <table border="0" style="border: none !important; background: transparent;">
+    <tr style="border: none !important; background: transparent;">
+      <td width="55%" align="center" valign="middle" style="border: none !important; background: transparent; padding-right: 8px;">
+        <img src="https://raw.githubusercontent.com/Faewon/Faewon/output/profile-3d-contrib/profile-night-green.svg" width="100%" />
+      </td>
+      <td width="45%" align="center" valign="middle" style="border: none !important; background: transparent; padding-left: 8px;">
+        <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10&disable_animations=true" width="100%" />
+        <br/><br/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&theme=vue-dark&hide_border=true&border_radius=10&card_width=495&langs_count=3" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
