@@ -63,8 +63,8 @@ business_analyst_intern:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide=prs,issues,contribs&hide_border=true&border_radius=10&disable_animations=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&layout=compact&theme=vue-dark&hide_border=true&border_radius=10" height="165"/>
 </p>
 
 <p align="center">
