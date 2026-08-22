@@ -62,15 +62,13 @@ business_analyst_intern:
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide=prs,issues,contribs&hide_border=true&border_radius=10&disable_animations=true" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&layout=compact&theme=vue-dark&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10&disable_animations=true" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&layout=compact&theme=vue-dark&hide_border=true&border_radius=10" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Faewon/Faewon/output/profile-3d-contrib/profile-night-green.svg" />
+  <img src="https://raw.githubusercontent.com/Faewon/Faewon/output/profile-3d-contrib/profile-night-green.svg" width="75%" />
 </p>
-
----
-
-<p align="center"><i>Open to Business Analyst / Data Analyst internship opportunities 🚀</i></p>
