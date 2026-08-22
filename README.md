@@ -66,14 +66,16 @@ business_analyst_intern:
   <table border="0" style="border: none;">
     <tr style="border: none;">
       <!-- Bên trái: 3D Contribution Graph -->
-      <td width="55%" align="center" valign="middle" style="border: none; padding-right: 10px;">
+      <td width="58%" align="center" valign="middle" style="border: none; padding-right: 10px;">
         <img src="https://raw.githubusercontent.com/Faewon/Faewon/output/profile-3d-contrib/profile-night-green.svg" alt="3D Profile Contribution" width="100%" />
       </td>
       <!-- Bên phải: 2 Stats Cards -->
-      <td width="45%" align="center" valign="middle" style="border: none; padding-left: 10px;">
-        <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10&disable_animations=true&hide=prs,issues,contribs" alt="GitHub Stats" width="100%" />
+      <td width="42%" align="center" valign="middle" style="border: none; padding-left: 10px;">
+        <!-- Card trên nhiều chữ hơn -->
+        <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10&disable_animations=true" alt="GitHub Stats" width="100%" />
         <br/><br/>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&layout=compact&theme=vue-dark&hide_border=true&border_radius=10&langs_count=4" alt="Top Languages" width="100%" />
+        <!-- Card dưới nhỏ gọn hơn -->
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&layout=compact&theme=vue-dark&hide_border=true&border_radius=10&langs_count=3" alt="Top Languages" width="90%" />
       </td>
     </tr>
   </table>
