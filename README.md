@@ -2,6 +2,10 @@
   <img src="assets/banner.png" alt="Header Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=650&height=50&lines=Engineering+the+Truth+Behind+Data;Bridging+Business+Problems+with+Analytics;Power+BI+%7C+PostgreSQL+%7C+Python+%7C+Machine+Learning" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Khai</h1>
 <h3 align="center">Business Analytics Student | Aspiring Business Analyst</h3>
 
