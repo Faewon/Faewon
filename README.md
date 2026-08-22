@@ -44,7 +44,7 @@ business_analyst_intern:
 |---|---|---|
 | **[Xpiry Market](YOUR_LINK)** | Marketplace connecting near-expiry retail inventory with consumers — led business workstream: market research, competitive matrix, business model, GTM strategy, customer journey mapping | `Business Modeling` `Market Research` |
 | **[TNBike Data Platform](YOUR_LINK)** | 6 Power BI dashboards for a B2B bicycle distributor (798 dealers); designed Medallion architecture on PostgreSQL; built RFM & cohort retention analysis in DAX to surface dealer risk | `Power BI` `PostgreSQL` `DAX` |
-| **[Credit Card Fraud Detection](YOUR_LINK)** | Probability-based fraud model (XGBoost, AUC-PR ~0.836) mapped into 4 business-actionable risk tiers; SHAP explainability for stakeholder trust | `Python` `XGBoost` `SHAP` |
+| **[Credit Card Fraud Detection](https://github.com/Faewon/Credit-Card-Fraud-Detection)** | Probability-based fraud model (XGBoost, AUC-PR ~0.836) mapped into 4 business-actionable risk tiers; SHAP explainability for stakeholder trust | `Python` `XGBoost` `SHAP` |
 
 ---
 
@@ -63,12 +63,12 @@ business_analyst_intern:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Faewon&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faewon&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faewon&theme=tokyonight" />
 </p>
 
 ---
