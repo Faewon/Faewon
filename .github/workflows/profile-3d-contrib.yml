@@ -1,24 +1,21 @@
 name: 3D Profile
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "update profile 3d contribution"
@@ -26,3 +23,16 @@ jobs:
           create_branch: true
           file_pattern: 'profile-3d-contrib/*.svg'
           push_options: '--force'
+
+      - name: Bust cache on README image URLs
+        run: |
+          TODAY=$(date +'%Y-%m-%d')
+          sed -i -E "s#(raw\.githubusercontent\.com/[^\"]*profile-night-green\.svg)(\?cb=[0-9-]+)?#\1?cb=${TODAY}#g" README.md
+          sed -i -E "s#(github-stats-extended\.vercel\.app/api\?[^\"]*)(&cb=[0-9-]+)?#\1\&cb=${TODAY}#g" README.md
+          sed -i -E "s#(github-stats-extended\.vercel\.app/api/top-langs/\?[^\"]*)(&cb=[0-9-]+)?#\1\&cb=${TODAY}#g" README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh stats card cache"
+          branch: main
+          file_pattern: 'README.md'
