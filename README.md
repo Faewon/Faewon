@@ -50,8 +50,8 @@ business_analyst_intern:
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Xpiry Market](YOUR_LINK)** | Marketplace connecting near-expiry retail inventory with consumers — led business workstream: market research, competitive matrix, business model, GTM strategy, customer journey mapping | `Business Modeling` `Market Research` |
-| **[TNBike Data Platform](YOUR_LINK)** | 6 Power BI dashboards for a B2B bicycle distributor (798 dealers); designed Medallion architecture on PostgreSQL; built RFM & cohort retention analysis in DAX to surface dealer risk | `Power BI` `PostgreSQL` `DAX` |
+| **[Xpiry Market](https://lnkd.in/p/gaqvxKtu)** | Marketplace connecting near-expiry retail inventory with consumers — led business workstream: market research, competitive matrix, business model, GTM strategy, customer journey mapping | `Business Modeling` `Market Research` |
+| **[TNBike Data Platform](https://github.com/Faewon/DataExplorers2026V2-Aura-Farmers)** | 6 Power BI dashboards for a B2B bicycle distributor (798 dealers); designed Medallion architecture on PostgreSQL; built RFM & cohort retention analysis in DAX to surface dealer risk | `Power BI` `PostgreSQL` `DAX` |
 | **[Credit Card Fraud Detection](https://github.com/Faewon/Credit-Card-Fraud-Detection)** | Probability-based fraud model (XGBoost, AUC-PR ~0.836) mapped into 4 business-actionable risk tiers; SHAP explainability for stakeholder trust | `Python` `XGBoost` `SHAP` |
 
 ---
