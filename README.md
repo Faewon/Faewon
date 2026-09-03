@@ -75,12 +75,12 @@ business_analyst_intern:
   <table border="0" style="border: none !important; background: transparent;">
     <tr style="border: none !important; background: transparent;">
       <td width="55%" align="center" valign="middle" style="border: none !important; background: transparent; padding-right: 8px;">
-        <img src="https://raw.githubusercontent.com/Faewon/Faewon/output/profile-3d-contrib/profile-night-green.svg?cb=2026-09-02?cb=init" width="100%" />
+        <img src="https://raw.githubusercontent.com/Faewon/Faewon/output/profile-3d-contrib/profile-night-green.svg?cb=2026-09-03?cb=init" width="100%" />
       </td>
       <td width="45%" align="center" valign="middle" style="border: none !important; background: transparent; padding-left: 8px;">
-        <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10&count_private=true&disable_animations=true&cb=init&cb=2026-08-23&cb=2026-08-23&cb=2026-08-24&cb=2026-08-25&cb=2026-08-26&cb=2026-08-27&cb=2026-08-28&cb=2026-08-29&cb=2026-08-30&cb=2026-08-31&cb=2026-09-01&cb=2026-09-02" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Faewon&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10&count_private=true&disable_animations=true&cb=init&cb=2026-08-23&cb=2026-08-23&cb=2026-08-24&cb=2026-08-25&cb=2026-08-26&cb=2026-08-27&cb=2026-08-28&cb=2026-08-29&cb=2026-08-30&cb=2026-08-31&cb=2026-09-01&cb=2026-09-02&cb=2026-09-03" width="100%" />
         <br/><br/>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&theme=vue-dark&hide_border=true&border_radius=10&card_width=495&langs_count=3&cb=init&cb=2026-08-23&cb=2026-08-23&cb=2026-08-24&cb=2026-08-25&cb=2026-08-26&cb=2026-08-27&cb=2026-08-28&cb=2026-08-29&cb=2026-08-30&cb=2026-08-31&cb=2026-09-01&cb=2026-09-02" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faewon&theme=vue-dark&hide_border=true&border_radius=10&card_width=495&langs_count=3&cb=init&cb=2026-08-23&cb=2026-08-23&cb=2026-08-24&cb=2026-08-25&cb=2026-08-26&cb=2026-08-27&cb=2026-08-28&cb=2026-08-29&cb=2026-08-30&cb=2026-08-31&cb=2026-09-01&cb=2026-09-02&cb=2026-09-03" width="100%" />
       </td>
     </tr>
   </table>
