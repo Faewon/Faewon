@@ -32,8 +32,20 @@ khai:
     - "Business requirements, process mapping & stakeholder communication"
     - "SQL & Python pipelines, Power BI dashboards & customer insights"
     - "Explainable machine learning with business-focused evaluation"
-  currently: "Seeking Business Analyst / Data Analyst internships"
+  currently: "Market Research Intern at WageIndicator Foundation"
+  opportunities: "Seeking Business Analyst / Data Analyst internships"
 ```
+
+---
+
+### 💼 Work Experience
+
+#### Market Research Intern | [WageIndicator Foundation](https://wageindicator.org/)
+
+**Aug 2026 – Present** · Part-time · Vietnam · Remote
+
+- Collect and structure labor-market datasets covering statutory minimum wages, base salaries, and standard compensation metrics across multiple industries.
+- Source and catalog cost-of-living data, including essential food baskets, housing, and healthcare prices, within research deadlines.
 
 ---
 
@@ -47,7 +59,9 @@ khai:
 - **Analysis:** RFM segmentation, cohort retention, product performance, and geographic trends to support dealer follow-up and inventory planning.
 - **Project result:** The repository reports **1,132 / 1,132 emails processed successfully** in the competition dataset.
 
-`Power BI` `DAX` `PostgreSQL` `Python` `Airflow` `Docker`
+**Tools & Technologies:** `Power BI` `DAX` `PostgreSQL` `Python` `Airflow` `Docker`
+
+**Analysis Methods:** `RFM Segmentation` `Cohort Analysis` `Demand Forecasting`
 
 [📂 Repository](https://github.com/Faewon/DataExplorers2026V2-Aura-Farmers) · [📊 Dashboard Gallery](https://github.com/Faewon/DataExplorers2026V2-Aura-Farmers/tree/main/B.%20Dashboards%20v%C3%A0%20Insights/dashboard) · [📄 Project Report](https://github.com/Faewon/DataExplorers2026V2-Aura-Farmers/blob/main/Report_AuraFarmers_DataExplorersV2.pdf)
 
@@ -61,21 +75,27 @@ khai:
 
 > Portfolio prototype: the documented model target is application denial, rather than observed loan default. Workflow benefits and stress scenarios represent proposed or modeled outcomes.
 
-`Python` `pandas` `XGBoost` `Power BI` `BPMN` `Business Analysis`
+**Tools & Technologies:** `Python` `pandas` `XGBoost` `Power BI`
+
+**BA Methods & Deliverables:** `BRD` `BPMN` `Data Flow Diagrams` `User Stories` `RACI`
 
 [📂 Repository](https://github.com/Faewon/CreditRisk-LoanDefault-PredictionEngine) · [📊 Dashboard Gallery](https://github.com/Faewon/CreditRisk-LoanDefault-PredictionEngine/tree/main/B.%20ML%20%26%20Analytics/dashboard) · [📋 BA Artifacts](https://github.com/Faewon/CreditRisk-LoanDefault-PredictionEngine/tree/main/C.%20BA%20Artifacts)
 
-#### 💳 [Credit Card Fraud Detection — Explainable Risk Prioritization](https://github.com/Faewon/Credit-Card-Fraud-Detection)
+#### 🛡️ [AIGIS — Adversarial Intelligence for Generative Immunity & Security](https://github.com/Faewon/AIGIS)
 
-**Business question:** How can suspicious transactions be prioritized while balancing missed fraud and unnecessary reviews?
+**Business question:** How can telemetry analysis and adversarial simulations help investigate FinTech business-logic flaws and evaluate proposed mitigations?
 
-- **Modeling:** Compared Random Forest, XGBoost, and LightGBM on imbalanced transaction data; the reported XGBoost cross-validation **AUC-PR is ~0.836 ± 0.028**.
-- **Explainability:** Probability calibration and SHAP analysis to make risk scores easier to interpret.
-- **Decision support:** Four adjustable risk tiers connect scores to proposed approve, review, analyst-escalation, and decline actions in an offline modeling workflow.
+- **Simulation workflow:** Multi-agent orchestration connects telemetry monitoring, concurrency-race simulations, SQL-based root-cause analysis, reference patch generation, and mock-target regression checks.
+- **Data & investigation:** Synthetic telemetry generation supports **1 million records**, with SQLite analysis, contextual traffic classification, and an interactive operations dashboard.
+- **Reproducible evidence:** Seeded simulations, persisted run retrieval and replay, and documented classifier evaluations and local performance benchmarks.
 
-`Python` `scikit-learn` `XGBoost` `LightGBM` `SHAP`
+**Tools & Technologies:** `Python` `FastAPI` `SQLite` `asyncio`
 
-[📂 Repository](https://github.com/Faewon/Credit-Card-Fraud-Detection) · [📓 Analysis Notebook](https://github.com/Faewon/Credit-Card-Fraud-Detection/blob/main/fraud_detection.ipynb) · [📈 Evaluation & Results](https://github.com/Faewon/Credit-Card-Fraud-Detection#results)
+**Methods:** `Multi-Agent Simulation` `Telemetry Analytics` `Root-Cause Analysis`
+
+Simulation demo using an in-process mock target and synthetic data; generated patches are reference templates, and rollout stages are previews.
+
+[📂 Repository](https://github.com/Faewon/AIGIS) · [🏗️ Architecture](https://github.com/Faewon/AIGIS/blob/main/docs/architecture.md) · [🎬 Demo Guide](https://github.com/Faewon/AIGIS/blob/main/docs/demo.md) · [📈 Evaluation & Benchmarks](https://github.com/Faewon/AIGIS/blob/main/docs/backend-reliability.md)
 
 ---
 
@@ -88,17 +108,19 @@ khai:
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills & Tools
 
-| Category | Tools & Capabilities |
+| Category | Skills, Methods & Tools |
 |---|---|
-| **Business Analysis** | Requirements documentation · Process mapping · Market research · Customer journeys · Stakeholder collaboration |
+| **BA Skills & Research** | ![Requirements Documentation](https://img.shields.io/badge/Requirements_Documentation-2563EB?style=flat-square) ![Market Research](https://img.shields.io/badge/Market_Research-0891B2?style=flat-square) ![Customer Journey Mapping](https://img.shields.io/badge/Customer_Journey_Mapping-7C3AED?style=flat-square) ![Stakeholder Collaboration](https://img.shields.io/badge/Stakeholder_Collaboration-0F766E?style=flat-square) |
+| **BA Methods & Deliverables** | ![BRD](https://img.shields.io/badge/BRD-2563EB?style=flat-square) ![BPMN](https://img.shields.io/badge/BPMN-7C3AED?style=flat-square) ![Data Flow Diagrams](https://img.shields.io/badge/Data_Flow_Diagrams-0891B2?style=flat-square) ![User Stories](https://img.shields.io/badge/User_Stories-0F766E?style=flat-square) ![RACI](https://img.shields.io/badge/RACI-475569?style=flat-square) |
 | **Languages & Libraries** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Project & Knowledge** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| **Design** | ![Adobe](https://img.shields.io/badge/Adobe_Creative_Suite-DA1F26?style=flat-square&logo=adobe&logoColor=white) |
+| **Backend & Orchestration** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) |
+| **Development & Automation** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Project & Knowledge Management** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white) |
+| **Design & Prototyping** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe_Creative_Suite-DA1F26?style=flat-square&logo=adobe&logoColor=white) |
 
 ---
 
